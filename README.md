@@ -1,4 +1,10 @@
 # TAU-VP-ex01
+This project implements 2 Python codes:
+1. Harris corner detector
+2. Basic video processing, which shows RGB video converted into:
+   a. Black and white video
+   b. Grayscale video
+   c. Output of Sobel operator - edge map of the original video
 
 # Background
 https://en.wikipedia.org/wiki/Harris_corner_detector
