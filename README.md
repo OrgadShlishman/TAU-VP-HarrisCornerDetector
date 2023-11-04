@@ -1,5 +1,4 @@
-# TAU-VP-HarrisCornerDetector
-Harris Corner Detector
+# TAU-VP-ex01
 
 # Background
 https://en.wikipedia.org/wiki/Harris_corner_detector
